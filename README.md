@@ -128,6 +128,13 @@ ORDER BY year ASC
 
 
 ```
+![_customer behaviour_screenshot](https://github.com/user-attachments/assets/a428d131-34f7-4112-9998-2ba2e831e940)
+
+![channels performance _screenshot](https://github.com/user-attachments/assets/2a715afd-3f9e-4f2d-8ffb-ea1c2dc0128b)
+
+![region performance_screenshot](https://github.com/user-attachments/assets/881b3025-e836-4d88-ac89-f09e40ace8af)
+
+![revenue_trend_yearly_performance](https://github.com/user-attachments/assets/e2146a34-9a7d-4c8c-ad38-b25be9f29f96)
 
 ## Results and  Findings: 
 
