@@ -84,6 +84,9 @@ JOIN orders o
 ON a.id = o.account_id
 GROUP BY customer_name
 ORDER BY total_revenue_usd  DESC
+
+
+
 --SQL SOLUTION 2--
 SELECT w.channel AS channel_name,  
 	   COUNT(w.channel) AS No_of_transactions,
@@ -96,7 +99,6 @@ JOIN web_events w
 ON a.id = w.account_id 
 GROUP BY channel_name
 ORDER BY total_revenue_usd DESC 
-
 
 
 
